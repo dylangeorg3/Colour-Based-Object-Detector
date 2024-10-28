@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "bitmap.h": "c",
+        "stdlib.h": "c"
+    }
+}
