@@ -13,9 +13,7 @@ An object detection program in C that identifies and labels objects within bitma
 3. [Usage](#usage)
 4. [Features](#features)
 5. [File Structure](#file-structure)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Contact](#contact)
+6. [Contact](#contact)
 
 </details>
 
