@@ -5,8 +5,7 @@ An object detection program in C that identifies and labels objects within bitma
 
 ---
 
-<details>
-<summary>**Table of Contents**</summary>
+
 
 1. [Project Overview](#project-overview)
 2. [Installation](#installation)
@@ -15,7 +14,7 @@ An object detection program in C that identifies and labels objects within bitma
 5. [File Structure](#file-structure)
 6. [Contact](#contact)
 
-</details>
+
 
 ---
 
@@ -27,8 +26,7 @@ This project is part of the MTRX1702 course and focuses on creating an object de
 
 ## Installation
 
-<details>
-<summary>Click to expand</summary>
+
 
 1. Clone the repository:
    ```bash
@@ -37,7 +35,7 @@ This project is part of the MTRX1702 course and focuses on creating an object de
 
 2. Navigate to the project directory:
    ```bash
-   cd MTRX1702---Object-Detector
+   cd Colour-Based-Object-Detector
    ```
 
 3. Compile the program:
@@ -51,14 +49,13 @@ This project is part of the MTRX1702 course and focuses on creating an object de
 
 5. Ensure any required image files or calibration data are correctly located as specified in the usage instructions.
 
-</details>
+
 
 ---
 
 ## Usage
 
-<details>
-<summary>Click to expand</summary>
+
 
 1. **Calibration Mode (c)**:
    - Run the calibration mode to generate color profile data for objects:
@@ -120,8 +117,6 @@ Detected objects will be labeled and saved in the `output_images` folder.
 
 ![Threshold Image](output_images/threshold_output.bmp)
 ![Bounding Boxes](output_images/image_with_regions.bmp)
-
-</details>
 
 ---
 
