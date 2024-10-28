@@ -132,7 +132,7 @@ Detected objects will be labeled and saved in the `output_images` folder.
 
 - **Bitmap Parsing**: Reads and parses BMP file formats.
 - **Calibration Data**: Utilizes a calibration file to define color thresholds for object detection.
-- **Object Detection**: Identifies connected regions based on BFS or DFS algorithms.
+- **Object Detection**: Identifies connected regions based on DFS algorithm.
 - **Output**: Saves images with bounding boxes around detected objects to the `output_images` directory.
 
 </details>
