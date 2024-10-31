@@ -31,6 +31,7 @@ typedef struct {
     uint8_t *raw;
 } BmpHeader;
 
+
 void check_fp(FILE *fp, char *filename) {
     if(fp == NULL) {
         fprintf(stderr, "Could not open file %s\n", filename);
